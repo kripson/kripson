@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fullstack developer</h1>
+<h1 align="center">Hi 👋, I'm Sankit</h1>
 <h3 align="center">A passionate fullstack developer from Australia</h3>
 
 - 🔭 I’m currently working on [Kzen8 platform](https://hub.kzen8.com)
