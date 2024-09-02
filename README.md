@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kzen8 platform](https://hub.kzen8.com)
 
-- 🧰 My current toolbox **HTML/CSS, Javascript, Typescript, React, Redux, Angular, Node, Express, MongoDB, MySQL, PostgreSQL, Firebase, AWS, Azure AD ** 
+- 🧰 My current toolbox **HTML/CSS, Javascript, Typescript, React, Redux, Angular, Node, Express, MongoDB, MySQL, PostgreSQL, Firebase, AWS, Azure AD** 
 
 - 🌱 I’m currently learning **Symphony, C#, ASP .NET**
 
