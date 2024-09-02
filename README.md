@@ -3,7 +3,7 @@
 
 <h3 align="left" color="red">This account is mostly used to host codebases for my freelancing projects.</h3>
 
-<h4 align="left">At my last role, we used AWS codecommit to host our codebase to fully utilise AWS CI/CD resources, so the history for my full time team based projects won't be here.</h4>
+<h4 align="left">At my last role, we used AWS codecommit to host our codebase to fully utilise AWS CI/CD resources, so the history for any projects worked with my team won't be here.</h4>
 
 - 🔭 I’m currently working on [Kzen8 platform](https://hub.kzen8.com)
 
