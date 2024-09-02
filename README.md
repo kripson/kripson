@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sankit</h1>
 <h3 align="center">A passionate fullstack developer with 5+ years of industry experience from Australia</h3>
 
+<h3 align="center" color="red">Mostly use this github account for my freelancing projects. At my last role, we used AWS codecommit to host our codebase to fully utilise AWS CI/CD resources, so the history for my full time team based projects won't be here.</h3>
+
 - 🔭 I’m currently working on [Kzen8 platform](https://hub.kzen8.com)
 
 - 🧰 My current toolbox **HTML/CSS, Javascript, Typescript, React, Redux, Angular, Node, Express, MongoDB, MySQL, PostgreSQL, Firebase, AWS, Azure AD** 
