@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Symphony, C#, ASP .NET**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-kripson.web.app](https://portfolio-kripson.web.app)
+- 👨‍💻 All of my projects are available at [https://kripson.dev](https://kripson.dev)
 
 - 📫 How to reach me **sankit.jobs@gmail.com**
 
