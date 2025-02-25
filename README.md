@@ -5,7 +5,7 @@
 
 <h4 align="left">At my full-time roles, we used other hosting platforms like AWS codecommit and bitbucket to host our codebase, so the history for any projects worked with my team won't be here.</h4>
 
-- 🔭 I’m currently working on [Kzen8 platform](https://hub.kzen8.com)
+- 🔭 I’m currently working as a senior full-stack engineer at Ignite Travel Group.
 
 - 🧰 My current toolbox **HTML/CSS, SCSS, Styled Components, Javascript, Typescript, React, Redux, Angular, Jest, Mocha, Vitest, Node, Express, MongoDB, MySQL, PostgreSQL, Firebase, AWS, Azure AD, Git, GitHub** 
 
