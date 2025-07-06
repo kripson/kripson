@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a senior full-stack engineer at Ignite Travel Group.
 
-- 🧰 My current toolbox **HTML/CSS, SCSS, Styled Components, Javascript, Typescript, React, Redux, Angular, Jest, Mocha, Vitest, Node, Express, MongoDB, MySQL, PostgreSQL, Firebase, AWS, Azure AD, Git, GitHub, Docker** 
+- 🧰 My current toolbox **HTML/CSS, SCSS, Styled Components, Javascript, Typescript, React, Redux, Angular, Jest, Mocha, Vitest, Node, Express, PHP, MongoDB, MySQL, PostgreSQL, Firebase, AWS, Azure AD, Git, GitHub, Docker** 
 
 - 🌱 I’m currently learning **Symphony, C#, ASP .NET**
 
