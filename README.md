@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankit</h1>
-<h3 align="left">A passionate fullstack developer with 5+ years of industry experience from Australia</h3>
+<h3 align="left">A passionate fullstack developer with 6+ years of industry experience from Australia</h3>
 
 <h3 align="left" color="red">This account is mostly used to host codebases for my freelancing projects.</h3>
 
