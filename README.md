@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as a senior full-stack engineer at Ignite Travel Group.
 
-- 🧰 My current toolbox **HTML/CSS, SCSS, Styled Components, Javascript, Typescript, React, Redux, Angular, Jest, Mocha, Vitest, Node, Express, PHP, MongoDB, MySQL, PostgreSQL, Firebase, AWS, Azure AD, Git, GitHub, Docker** 
+- 🧰 My current toolbox **HTML/CSS, SCSS, Styled Components, Javascript, Typescript, React, Redux, Angular, Jest, Mocha, Vitest, Node, Express, PHP, MongoDB, MySQL, PostgreSQL, Firebase, AWS, Azure AD, Git, GitHub, Docker, C#, ASP .NET** 
 
-- 🌱 I’m currently learning **Symphony, C#, ASP .NET**
+- 🌱 I’m currently learning **Symphony**
 
 - 👨‍💻 All of my personal projects are available at [https://kripson.dev](https://kripson.dev)
 
