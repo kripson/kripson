@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sankit Shrestha
 
-### Technical Lead • Full Stack Engineer • Solution Architect
+### Technical Lead • Full Stack Engineer •
 
 ---
 
