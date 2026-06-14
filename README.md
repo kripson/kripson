@@ -29,7 +29,6 @@ This project fundamentally changed how travel products are priced, sold, and ful
 * Cloud Architecture
 * System Design
 * Business Process Transformation
-* Engineering Mentorship
 
 ## 🛠 Core Technologies
 
