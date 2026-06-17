@@ -8,7 +8,7 @@ I enjoy tackling complex technical challenges that require deep system understan
 
 ## 🚀 Recent Highlight
 
-At Ignite Travel Group, I led the architecture and implementation of Dynamic Rates — a company-wide transformation that introduced dynamic accommodation sourcing into a platform originally designed around static contracted inventory.
+At Ignite Travel Group, I led the architecture and implementation of Dynamic Rates - a company-wide transformation that introduced dynamic accommodation sourcing into a platform originally designed around static contracted inventory.
 
 The initiative required:
 
